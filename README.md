@@ -10,7 +10,7 @@ Layout criado por Renan Menezes Carvalho
 <br>
 
 <p align="center">
-  <img alt="meu layout" src="./meu layout.jpg" width="100%">
+  <img alt="meu layout" src=".github/meu layout.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
