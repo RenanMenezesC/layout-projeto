@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi criado no intiuto de aprendizagem
+Esse projeto foi criado no intuito de aprendizagem
 
 ## 🔖 Layout
 
