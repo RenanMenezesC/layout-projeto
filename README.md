@@ -13,7 +13,7 @@ Layout criado por Renan Menezes Carvalho
   <img alt="meu layout" src=".github/meu layout.jpg" width="100%">
 </p>
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://picsart.onelink.me/VgrZ/f5s67cbt).
+
 
 ## 🚀 Tecnologias
 
@@ -29,7 +29,7 @@ Esse projeto foi criado com intenção de aprendizagem
 
 ## 🔖 Layout
 
-
+Você pode visualizar o layout do projeto através [DESSE LINK](https://picsart.onelink.me/VgrZ/f5s67cbt).
 
 Esse projeto está sob a licença MIT.
 
